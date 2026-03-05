@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { toast } from 'sonner';
-import { ArrowLeft, Clock, ExternalLink, CheckCircle, RotateCcw, XCircle, Loader2 } from 'lucide-react';
+import { ArrowLeft, Clock, ExternalLink, CheckCircle, RotateCcw, XCircle, Loader2, Star } from 'lucide-react';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
